@@ -5,15 +5,15 @@ import CardContent from "@mui/material/CardContent";
 import CardMedia from "@mui/material/CardMedia";
 import Button from "@mui/material/Button";
 import Typography from "@mui/material/Typography";
-import Panda from "../img/1.jpeg";
-import Bron from "../img/2.jpeg";
-import Zebra from "../img/3.jpeg";
-import Jiraf from "../img/4.jpeg";
-import Tiger from "../img/5.jpeg";
-import Elephant from "../img/6.jpeg";
-import Got from "../img/7.jpeg";
-import Willi from "../img/8.jpeg";
-import Lizar from "../img/9.jpeg";
+import Panda from "../../img/1.jpeg";
+import Bron from "../../img/2.jpeg";
+import Zebra from "../../img/3.jpeg";
+import Jiraf from "../../img/4.jpeg";
+import Tiger from "../../img/5.jpeg";
+import Elephant from "../../img/6.jpeg";
+import Got from "../../img/7.jpeg";
+import Willi from "../../img/8.jpeg";
+import Lizar from "../../img/9.jpeg";
 import { Box } from "@mui/material";
 
 const data = [
