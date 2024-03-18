@@ -1,11 +1,11 @@
 import React from "react";
 import Badge from "@mui/material/Badge";
 import FavoriteBorderIcon from "@mui/icons-material/FavoriteBorder";
-import Smile1 from "../../accets/img/1.jpeg";
-import Smile2 from "../../accets/img/2.jpeg";
-import Smile3 from "../../accets/img/3.jpeg";
-import Smile4 from "../../accets/img/4.jpeg";
-import Smile5 from "../../accets/img/5.jpeg";
+import Smile1 from "../../accets/img/smiles/1.jpeg";
+import Smile2 from "../../accets/img/smiles/2.jpeg";
+import Smile3 from "../../accets/img/smiles/3.jpeg";
+import Smile4 from "../../accets/img/smiles/4.jpeg";
+import Smile5 from "../../accets/img/smiles/5.jpeg";
 import { Box, Button } from "@mui/material";
 
 class Smiles extends React.Component {
